@@ -1,0 +1,1 @@
+Collected tutorial-esq information about additional changes/modifications/alterations required for project end result.
